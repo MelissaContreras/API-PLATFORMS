@@ -5,7 +5,7 @@
 ## Proyecto Individual
  ---
 
-     " Vamos a realizar una ingesta de datos desde diversas fuentes, posteriormente aplicar las transformaciones que se consideran pertinentes, y luego disponibilizar los datos limpios para su consulta a través de una API. Esta API deberán construirla en un entorno virtual dockerizado. "
+     " Vamos a realizar una ingesta de datos desde diversas fuentes, posteriormente aplicar las transformaciones que se consideran pertinentes, y luego disponibilizar los datos limpios para su consulta a través de una API. "
 
   
 
@@ -30,7 +30,7 @@
      Es el proceso de Extraer, Transformar y Cargar los datos a una base de datos.
  
 
- ![Proceso](https://www.dall-int.com/wp-content/uploads/2022/06/PA-ETL-Tool-Infographic-1080x441.png-1024x418.webp)
+ <img src="https://www.dall-int.com/wp-content/uploads/2022/06/PA-ETL-Tool-Infographic-1080x441.png-1024x418.webp">
 
 
 - ### Luego de su normalización decidí unir todos los dataframes aprovechando que poseen la misma cantidad de columnas que equivalen a las mismas características y finalmente transformar este a CSV .
